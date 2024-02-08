@@ -9,7 +9,7 @@
   "author": "",
   "license": "BSD-2-Clause",
   "dependencies": {
-    "sboljs": "^2.2.2",
+    "sboljs": "^3.0.2",
     "visbol": "^1.5.0"
   }
 }
